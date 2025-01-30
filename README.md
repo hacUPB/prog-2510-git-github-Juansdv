@@ -44,7 +44,7 @@ Aprender a utilizar Git Bash, crear carpetas, crear y modificar archivos, vincul
 # imagenes:
 
 
-./mi_proyecto/images/modificacion README.png
 
-./mi_proyecto/images/5.png
+![alt text](<mi_proyecto/images/modificacion README.png>)
+![alt text](mi_proyecto/images/5.png)
 
