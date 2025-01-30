@@ -38,3 +38,11 @@ Aprender a utilizar Git Bash, crear carpetas, crear y modificar archivos, vincul
 
  - https://github.com/hacUPB/prog-2510-git-github-Juansdv/blob/main/mi_proyecto/docs/uso_consola.md
 
+--------------------------------------------------------------------------------
+
+
+# imagenes:
+
+
+./mi_proyecto/images/modificacion README.png'
+
